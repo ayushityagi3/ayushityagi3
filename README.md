@@ -12,11 +12,11 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 📖 I’m currently learning **Data Structure**
+- 📖 I’m currently learning **Java,AWS,Data Analytics,Cloud computing**
 
 - 📫 How to reach me **tayushi477@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I LOVE PHILOSOPHY**
 
 <br>
 
