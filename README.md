@@ -12,7 +12,7 @@
 
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 📖 I’m currently learning **Java,AWS,Data Analytics,Cloud computing**
+- 📖 I’m currently learning **SQl,Data Analytics,Cloud, Business strategies**
 
 - 📫 How to reach me **tayushi477@gmail.com**
 
